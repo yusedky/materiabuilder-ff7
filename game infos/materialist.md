@@ -83,8 +83,3 @@
  W-Item Materia
  W-Magic Materia
  W-Summon Materia
- 
- 
-### Sites para referências e informações:
- - https://jegged.com/Games/Final-Fantasy-VII/Materia/Full-List.html
- - 

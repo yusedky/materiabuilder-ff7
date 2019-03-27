@@ -1,0 +1,2 @@
+ - https://jegged.com/Games/Final-Fantasy-VII/Materia/Full-List.html
+ - http://www.finalfantasykingdom.net/finalfantasyviiweapons8.php
